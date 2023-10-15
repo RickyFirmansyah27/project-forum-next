@@ -40,6 +40,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.45.1",
+    "sass": "^1.69.3",
     "svix": "^1.7.0",
     "tailwind-merge": "^1.13.2",
     "tailwindcss": "3.3.3",
