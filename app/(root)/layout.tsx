@@ -14,7 +14,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "MyForumOnline",
-  description: "A Next.js 13 Meta Threads application",
+  description: "A Next.js 13 Beta Forum application",
 };
 
 export default function RootLayout({
